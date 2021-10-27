@@ -4,13 +4,12 @@ title: About
 ---
 
 <p class="message">
-  We are NFT Blockchain Engineer specializing in Blockchain Games and NFT Fields. We have years of experience with Bitcoin, Ethereum, Quorum, Fabric, Tendermint, Cosmos, and Hyperledger solutions. We have recently worked on applying NFT Marketplace, NFT Arts, and NFT Fields Projects.
+  NFT Marketplace is a fast Rising Blockchain Innovation and It's Worth Millions in Dollars!
+  Looking to Have your NFT Marketplace Website with Minting engine?
 </p>
 
-We are specializing in Ethereum, PolygonFlow, Polkadot, Tezos, NFT Collections, NFT Games, NFT Platforms, NFT Arts, NFT Defi, NFT Marketplaces, NFT Minters, NFT Wallets.
+You may not have any idea of owning and using NFT TOKEN, NFT WEBSITE, NFT MARKETPLACE, SMART CONTRACT, ICO WEBSITES, AND APP to make huge income and earn billions of dollars, that is why I am here for you, as a developer I will create a selling nft website, nft token, smart contract, crypto art, yield farming with working and transacting functionalities.
 
-Have questions or suggestions? 
-
-Contact us 
+Contact us for your more discussion and let's get your project done perfectly.
 
 Thanks for reading!
