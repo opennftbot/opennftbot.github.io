@@ -10,7 +10,7 @@ highlighter:      pygments
 title:            'Open NFT Bot Awesome'
 tagline:          'Open NFT Bot Awesome'
 description:      'Awesome-NFT Awesome list of awesome Non Fungible Token (NFT, ERC721, ERC1155) frameworks, libraries and software resources.'
-url:              http://opennftbot.com/
+url:              http://opennftbot.github.io
 baseurl:          /
 
 author:
