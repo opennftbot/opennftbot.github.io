@@ -1,51 +1,106 @@
-- name: 常用推荐
+- name: AI热门工具
   icon: linecons-star
   links: 
-    - title: Dribbble
-      logo: /assets/images/logos/dribbble.png
-      url: https://dribbble.com/
-      description: 全球UI设计师作品分享平台。
-    - title: Behance
-      logo: /assets/images/logos/behance.png
-      url: https://behance.net/
-      description: Adobe旗下的设计师交流平台，来自世界各地的设计师在这里分享自己的作品。
-    - title: UI中国
-      logo: /assets/images/logos/uicn.png
-      url: https://www.ui.cn/
-      description: 图形交互与界面设计交流、作品展示、学习平台。
-    - title: 站酷
-      logo: /assets/images/logos/zcool.png
-      url: https://www.zcool.com.cn/
-      description: 中国人气设计师互动平台
-    - title: Pinterest
-      logo: /assets/images/logos/pinterest.png
-      url: https://www.pinterest.com/
-      description: 全球美图收藏采集站
-    - title: 花瓣
-      logo: /assets/images/logos/huaban.png
-      url: https://huaban.com/
-      description: 收集灵感,保存有用的素材
-    - title: Medium
-      logo: /assets/images/logos/medium.png
-      url: https://medium.com/
-      description: 高质量设计文章
-    - title: 优设
-      logo: /assets/images/logos/uisdc.png
-      url: https://www.uisdc.com/
-      description: 设计师交流学习平台
-    - title: Producthunt
-      logo: /assets/images/logos/producthunt.png
-      url: https://www.producthunt.com/
-      description: 发现新鲜有趣的产品
-    - title: Youtube
-      logo: /assets/images/logos/youtube.png
-      url: https://www.youtube.com/
-      description: 全球最大的学习分享平台
-    - title: Google
-      logo: /assets/images/logos/google.png
-      url: https://www.google.com/
-      description: 全球最大的UI学习分享平台
-    
+    - title: 堆友AI-免费AI绘画神器
+      logo: /assets/images/logos/img_655d8cedf2575.png
+      url: https://d.design/ai?from=aaaaaaa
+      description: 阿里出品免费ai绘画神器,0门槛免费生成,AI行业大咖联合推荐！
+    - title: 免费chatgpt中文版
+      logo: /assets/images/logos/img_6474a59fe8ff4.png
+      url: https://ymiai.top/?channel=aaaaaaa
+      description: 免费chatgpt中文版,基于gpt4.0开发,人工智能对话机器人,ai写作,聊天,问答
+    - title: 新华妙笔
+      logo: /assets/images/logos/img_65e0589d452c8.png
+      url: https://miaobi.xinhuaskl.com/?ref=aaaaaaa
+      description: 新华社出品AI公文写作平台,新华妙笔,引领公文写作革新的ai写作工具
+    - title: 免费ai chat写作
+      logo: /assets/images/logos/img_64f964243317e.png
+      url: https://dmla.lanzouy.com/aaaaaaa
+      description: 支持ai写作,绘画,ppt,抠图,文档理解,翻译,真人语音合成....等几十种ai工具!
+    - title: Notion AI
+      logo: /assets/images/logos/62564-www.notion.so.png
+      url: https://www.notion.so/product/ai
+      description: Notion AI,强大的AI写作助手,帮助用户快速撰写、编辑、总结文本内容
+    - title: 宙语Cosmos AI写作
+      logo: /assets/images/logos/img_65ea82d787d06.png
+      url: https://ailjyk.com/pc/chat?share_id=aaaaaaa&user_sn=aaaaaaa
+      description: 宙语是一个全能型AI智能写作网站，帮助您快速高效地撰写各类文章。
+    - title: 句心AI论文助手
+      logo: /assets/images/logos/img_65ea84d120bfb.png
+      url: https://juxinai.com/generate/aaaaaaa
+      description: 句心AI论文助手,免费千字写作大纲，10分钟自动生成万字专题
+    - title: AI一键论文
+      logo: /assets/images/logos/img_65e57c4bc2f94.png
+      url: https://www.aipaperpass.com/?pic=aaaaaaa
+      description: AI一键论文,AIPaperPass,AI论文写作平台,5分钟3万字,附带ppt,开题报告,40篇真实参考文献,5%重复率
+    - title: 笔灵AI论文
+      logo: /assets/images/logos/img_658513f767fc6.png
+      url: https://ibiling.cn/paper?from=aaaaaaa
+      description: 专业AI论文写作,免费生成千字论文大纲,AI一键生成4w字毕业论文,课题论文,期末论文等
+    - title: 免费ChatAI写作
+      logo: /assets/images/logos/img_652c875549caf.png
+      url: https://chat.moyanaigc.com/web/?aaaaaaa&tuid=aaaaaaa
+      description: 免费ai写作,对话+流畅体验,陌言ai,AI绘画,ChatAI
+    - title: 万彩AI
+      logo: /assets/images/logos/img_65e57a7085a4e.png
+      url: https://ai.kezhan365.com/?utm_code=aaaaaaa
+      description: 万彩AI,ai写作,数字人,一键成片短视频,换脸秀,写真馆,爆款文案,公众号创作
+    - title: 免费触手ai绘画
+      logo: /assets/images/logos/3721b-acgnai.com.png
+      url: https://douchu.ai/warehouse/styleStore?inviteCode=aaaaaaa&channel=channel_invite
+      description: 免费!触手ai绘画,写作!专业版app软件下载,免费训练AI绘画模型
+    - title: 免费GPU算力云
+      logo: /assets/images/logos/img_65e3735aeda3c.png
+      url: https://www.houdeyun.cn/?from=aaaaaaa
+      description: 免费使用7天RTX4090,专业的GPU算力云平台,可靠,稳定,易用,省钱,gpu主机,云主机,跨境电商,云桌面
+    - title: 网宿科技
+      logo: /assets/images/logos/img_65e1820dcc86d.png
+      url: https://account.console.wangsu.com/register/register-info?inviteCode=aaaaaaa
+      description: GPU算力、全球CDN安全加速、securelink国内外互访互通,全球领先的ICT基础平台服务提供商
+    - title: cursor
+      logo: /assets/images/logos/61e28-www.cursor.so.png
+      url: https://cursor.sh/
+      description: cursor,免费gpt4,gpt3.5,基于GPT的ai代码生成器
+    - title: Sora
+      logo: /assets/images/logos/3b993-openai.com.png
+      url: https://feizhuke.com/sites/sora2.html
+      description: OpenAI Sora,模型体验内测申请入口,文生视频软件工具app免费下载地址
+    - title: ChatGPT
+      logo: /assets/images/logos/img_6474a59fe8ff4.png
+      url: https://chat.openai.com/auth/login
+      description: 原版ChatGPT,由OpenAI开发的一款基于人工智能技术的对话机器人，使用自然语言处理和机器学习算法，可以理解和生成类似人类语言的对话。需要科学-上网!
+    - title: 灵境矩阵平台
+      logo: /assets/images/logos/img_652f8b9b2524a.png
+      url: https://agents.baidu.com/
+      description: 百度灵境矩阵平台,文心大模型插件开发/文心一言ai插件平台
+    - title: Character ai
+      logo: /assets/images/logos/1e155-beta.character.ai.png
+      url: https://beta.character.ai/
+      description: 万彩Character ai,在线智能AI聊天机器人,角色扮演,神经语言模型
+    - title: FaceSwap
+      logo: /assets/images/logos/2f09c-faceswap.dev.png
+      url: https://faceswap.dev/?ref=aaaaaaa
+      description: FaceSwap,Face Swap视频AI换脸工具软件
+    - title: Stable Video Diffusion
+      logo: /assets/images/logos/c20b7-www.stablevideo.com.png
+      url: https://www.stablevideo.com/login?returnUrl=%2F
+      description: 免费ai生成视频本地部署,Stable Video Diffusion,svd视频生成本地部署安装配置,有哪些功能,使用教程
+    - title: resemble ai
+      logo: /assets/images/logos/7123d-www.resemble.ai.png
+      url: https://www.resemble.ai/
+      description: resemble ai,5秒克隆你的声音,并生成任何内容
+    - title: google bard
+      logo: /assets/images/logos/b6770-bard.google.com.png
+      url: https://gemini.google.com/
+      description: Bard(改名gemini)是由谷歌 LaMDA 模型提供支持的对话 AI 服务，利用来自互联网的信息提供最新、高质量的回复
+    - title: claude
+      logo: /assets/images/logos/56546-claude.ai.png
+      url: https://claude.ai/chats
+      description: claude AI 聊天机器人,ChatGPT免费平替
+    - title: poe ai
+      logo: /assets/images/logos/6f18a-poe.com.png
+      url: https://poe.com/login?ref=aaaaaaa
+      description: poe ai,整合6种AI聊天机器人服务,免费使用,chatgpt,claude+,gpt4,sage,neeva ai,dragonfly
 
 - name: 社区资讯
   icon: linecons-doc
