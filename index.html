@@ -150,6 +150,12 @@ layout: home
 <!-- 锚点平滑移动 -->
 <script type="text/javascript">
     $(document).ready(function() {
+
+        var rnd1 = Math.floor(Math.random() * 10); // 生成 0 到 9 的随机数
+        $('#rnd1').text(rnd1);
+        var rnd2 = Math.floor(Math.random() * 10); // 生成 0 到 9 的随机数
+        $('#rnd2').text(rnd2);
+        
         $(document).on('click', '.has-sub', function(){
             var _this = $(this)
             if(!$(this).hasClass('expanded')) {
