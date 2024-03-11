@@ -1,5 +1,5 @@
 ---
-permalink: /index.html
+permalink: /about.html
 layout: home
 ---
 
@@ -79,55 +79,12 @@ layout: home
         </ul>
     </nav>
 
-    {% for category in site.data.webstack %}
-        {% if category.sub %}
-            {% for sub_category in category.sub %}
-            <h4 class="text-gray"><i class="linecons-tag" style="margin-right: 7px;" id="{{ sub_category.name }}"></i>{{ sub_category.name }}</h4>
-            <div class="row">
-                {% for link in sub_category.links %}
-                <div class="col-sm-3">
-                    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('{{ link.url }}', '_blank')" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="{{ link.url }}">
-                        <div class="xe-comment-entry">
-                            <a class="xe-user-img">
-                                <img src="{{ link.logo }}" class="img-circle" width="40">
-                            </a>
-                            <div class="xe-comment">
-                                <a href="#" class="xe-user-name overflowClip_1">
-                                    <strong>{{ link.title }}</strong>
-                                </a>
-                                <p class="overflowClip_2">{{ link.description }}</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                {% endfor %}
-            </div>
-            <br />
-            {% endfor %}
-        {% else if %}
-        <h4 class="text-gray"><i class="linecons-tag" style="margin-right: 7px;" id="{{ category.name }}"></i>{{ category.name }}</h4>
-        <div class="row">
-            {% for link in category.links %}
-            <div class="col-sm-3">
-                <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('{{ link.url }}', '_blank')" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="{{ link.url }}">
-                    <div class="xe-comment-entry">
-                        <a class="xe-user-img">
-                            <img src="{{ link.logo }}" class="img-circle" width="40">
-                        </a>
-                        <div class="xe-comment">
-                            <a href="#" class="xe-user-name overflowClip_1">
-                                <strong>{{ link.title }}</strong>
-                            </a>
-                            <p class="overflowClip_2">{{ link.description }}</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            {% endfor %}
+    <div class="row">
+        <div class="">
+            关于我们
         </div>
-        <br />
-        {% endif %}
-    {% endfor %}    
+    </div>
+    <br />
     
     <!-- Main Footer -->
     <footer class="main-footer sticky footer-type-1">
