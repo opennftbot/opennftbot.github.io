@@ -760,6 +760,7 @@ body {
     padding: 0;
     border: none;
     font-size: 14px;
+    line-height: 0;
 }
 
 .boxed-container {
