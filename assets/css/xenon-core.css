@@ -982,7 +982,8 @@ body {
 
 .sidebar-menu .main-menu a>i {
     display: inline-block;
-    margin-right: 10px
+    margin-right: 4px;
+    font-size: 20px;
 }
 
 .sidebar-menu .main-menu a>i+span {
