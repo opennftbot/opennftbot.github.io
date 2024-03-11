@@ -758,7 +758,8 @@ body {
     height: 100%;
     margin: 0;
     padding: 0;
-    border: none
+    border: none;
+    font-size: 14px;
 }
 
 .boxed-container {
