@@ -918,7 +918,7 @@ body {
     display: table-cell;
     position: relative;
     width: 280px;
-    background: #000;
+    background: #2c2e2f;
     z-index: 1
 }
 
@@ -971,7 +971,7 @@ body {
 }
 
 .sidebar-menu .main-menu a {
-    color: #ccc;
+    color: #c6c9cf;
     text-decoration: none;
     display: block;
     padding: 13px 5px;
