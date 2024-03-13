@@ -122,6 +122,108 @@
       title: poe ai
       description: poe ai,整合6种AI聊天机器人服务,免费使用,chatgpt,claude+,gpt4,sage,neeva ai,dragonfly
 
+
+
+
+- name:  AI聊天对话
+  icon: fa-comments
+  links:
+
+
+
+    - url: https://feizhuke.com/go/?url=aHR0cHM6Ly9jaGF0LmJhaWR1LmNvbS8%3D 
+      logo: /assets/images/logos/img_657d98f8a70f5.png 
+      title: 搜索AI伙伴
+      description: 搜索AI伙伴,一款基于百度文心一言深度学习的百度AI智能助手
+
+    - url: https://feizhuke.com/go/?url=aHR0cHM6Ly9jaGF0LmJhaWR1LmNvbS8%3D 
+      logo: /assets/images/logos/2058b-chat.baidu.com.png 
+      title: ai伙伴
+      description: 百度搜索ai伙伴,帮你高效解答问题,辅助你进行内容理解,激发你的灵感和想象
+
+    - url: https://feizhuke.com/go/?url=aHR0cHM6Ly95b3UuY29tL3NlYXJjaD9xPXdobythcmUreW91JmFtcDt0Ym09eW91Y2hhdCZhbXA7Y2ZyPWNoYXQ%3D 
+      logo: /assets/images/logos/58b2e-you.com.png 
+      title: youchat
+      description: youchat ai,与ChatGPT类似功能聊天机器人
+
+    - url: https://feizhuke.com/go/?url=aHR0cHM6Ly93d3cuamFzcGVyLmFpL2NoYXQ%3D 
+      logo: /assets/images/logos/b7476-www.jasper.ai.png 
+      title: Jasper Chat
+      description: Jasper Chat,人工智能AI文章内容写作助手,ai绘画,聊天机器人
+
+    - url: https://feizhuke.com/go/?url=aHR0cHM6Ly93aGlzcHIuY2hhdC8%3D 
+      logo: /assets/images/logos/db9f1-whispr.chat.png 
+      title: Whispr
+      description: Whispr,AI对话机器人,机器学习和自然语言处理微调的人工智能
+
+    - url: https://feizhuke.com/go/?url=aHR0cHM6Ly93d3cuYW50aHJvcGljLmNvbS9wcm9kdWN0 
+      logo: /assets/images/logos/bc25e-www.anthropic.com.png 
+      title: Anthropic
+      description: Anthropic,ChatGPT最强对手Claude,ai聊天机器人
+
+    - url: https://feizhuke.com/go/?url=aHR0cHM6Ly93d3cucGVycGxleGl0eS5haS8%3D 
+      logo: /assets/images/logos/93e33-www.perplexity.ai.png 
+      title: perplexity ai
+      description: perplexity ai,结合了搜索和聊天功能的在线工具,基于OpenAI API开发
+
+    - url: https://feizhuke.com/go/?url=aHR0cHM6Ly9pbmdlc3RhaS5pby8%3D 
+      logo: /assets/images/logos/7121e-ingestai.io.png 
+      title: IngestAI
+      description: IngestAI官网,使用现有知识库创建类似chatgpt的机器人的工具。
+
+    - url: https://feizhuke.com/chagpt88 
+      logo: /assets/images/logos/img_6474a59fe8ff4.png 
+      title: ChatGPT
+      description: 原版ChatGPT,由OpenAI开发的一款基于人工智能技术的对话机器人，使用自然语言处理和机器学习算法，可以理解和生成类似人类语言的对话。需要科学-上网!
+
+    - url: https://feizhuke.com/go/?url=aHR0cHM6Ly95aXlhbi5iYWlkdS5jb20v 
+      logo: /assets/images/logos/4ca42-yiyan.baidu.com.png 
+      title: 文心一言
+      description: 百度文心一言,对话式ai人工智能写作工具,聊天工具
+
+    - url: https://feizhuke.com/go/?url=aHR0cHM6Ly9iZXRhLmNoYXJhY3Rlci5haS8%3D 
+      logo: /assets/images/logos/1e155-beta.character.ai.png 
+      title: Character ai
+      description: Character ai,在线智能AI聊天机器人,角色扮演,神经语言模型
+
+    - url: https://feizhuke.com/go/?url=aHR0cHM6Ly9iYXJkLmdvb2dsZS5jb20v 
+      logo: /assets/images/logos/b6770-bard.google.com.png 
+      title: google bard
+      description: Bard(改名gemini)是由谷歌 LaMDA 模型提供支持的对话 AI 服务，利用来自互联网的信息提供最新、高质量的回复
+
+    - url: https://feizhuke.com/go/?url=aHR0cHM6Ly9jbGF1ZGUuYWkvY2hhdHM%3D 
+      logo: /assets/images/logos/56546-claude.ai.png 
+      title: claude
+      description: claude AI 聊天机器人,ChatGPT免费平替
+
+    - url: https://feizhuke.com/go/?url=aHR0cHM6Ly9wb2UuY29tLz9yZWY9ZmVpemh1a2UuY29t 
+      logo: /assets/images/logos/6f18a-poe.com.png 
+      title: poe ai
+      description: poe ai,整合6种AI聊天机器人服务,免费使用,chatgpt,claude+,gpt4,sage,neeva ai,dragonfly
+
+    - url: https://feizhuke.com/go/?url=aHR0cHM6Ly93d3cuamFzcGVyLmFpLw%3D%3D 
+      logo: /assets/images/logos/www.jasper.ai.png 
+      title: Jasper ai
+      description: Jasper ai,人工智能AI文章内容写作助手,ai绘画,聊天机器人,语音
+
+    - url: https://feizhuke.com/go/?url=aHR0cHM6Ly95b3UuY29tLw%3D%3D 
+      logo: /assets/images/logos/2cb57-you.com.png 
+      title: you
+      description: you,基于ai人工智能搜索引擎,聊天机器人,代码编写,文本写作,图片生成
+
+    - url: https://feizhuke.com/go/?url=aHR0cHM6Ly93cml0ZXNvbmljLmNvbS9jaGF0P3ZpYT15aXNoZW5nODM%3D 
+      logo: /assets/images/logos/ca441-writesonic.com.png 
+      title: chatsonic
+      description: chatsonic,基于GPT4的ChatGPT与New Bing替代AI聊天机器人,每月1万单词,100+ai模板,ai文章生成器,浏览器插件!
+
+    - url: https://feizhuke.com/go/?url=aHR0cHM6Ly9zZWFhcnQuYWkvP3JlZj1mZWl6aHVrZS5jb20%3D 
+      logo: /assets/images/logos/img_649e880170c7e.png 
+      title: seaart ai
+      description: seaart ai,海艺ai绘画,聊天机器人,prompt提示词网站
+
+
+
+
 - name: AI文本工具
   icon: fa-pencil-square
   sub: 
@@ -3591,104 +3693,6 @@
         logo: /assets/images/logos/2cb57-you.com.png 
         title: you
         description: you,基于ai人工智能搜索引擎,聊天机器人,代码编写,文本写作,图片生成
-
-
-
-- name:  AI聊天对话
-  icon: fa-comments
-  links:
-
-
-
-    - url: https://feizhuke.com/go/?url=aHR0cHM6Ly9jaGF0LmJhaWR1LmNvbS8%3D 
-      logo: /assets/images/logos/img_657d98f8a70f5.png 
-      title: 搜索AI伙伴
-      description: 搜索AI伙伴,一款基于百度文心一言深度学习的百度AI智能助手
-
-    - url: https://feizhuke.com/go/?url=aHR0cHM6Ly9jaGF0LmJhaWR1LmNvbS8%3D 
-      logo: /assets/images/logos/2058b-chat.baidu.com.png 
-      title: ai伙伴
-      description: 百度搜索ai伙伴,帮你高效解答问题,辅助你进行内容理解,激发你的灵感和想象
-
-    - url: https://feizhuke.com/go/?url=aHR0cHM6Ly95b3UuY29tL3NlYXJjaD9xPXdobythcmUreW91JmFtcDt0Ym09eW91Y2hhdCZhbXA7Y2ZyPWNoYXQ%3D 
-      logo: /assets/images/logos/58b2e-you.com.png 
-      title: youchat
-      description: youchat ai,与ChatGPT类似功能聊天机器人
-
-    - url: https://feizhuke.com/go/?url=aHR0cHM6Ly93d3cuamFzcGVyLmFpL2NoYXQ%3D 
-      logo: /assets/images/logos/b7476-www.jasper.ai.png 
-      title: Jasper Chat
-      description: Jasper Chat,人工智能AI文章内容写作助手,ai绘画,聊天机器人
-
-    - url: https://feizhuke.com/go/?url=aHR0cHM6Ly93aGlzcHIuY2hhdC8%3D 
-      logo: /assets/images/logos/db9f1-whispr.chat.png 
-      title: Whispr
-      description: Whispr,AI对话机器人,机器学习和自然语言处理微调的人工智能
-
-    - url: https://feizhuke.com/go/?url=aHR0cHM6Ly93d3cuYW50aHJvcGljLmNvbS9wcm9kdWN0 
-      logo: /assets/images/logos/bc25e-www.anthropic.com.png 
-      title: Anthropic
-      description: Anthropic,ChatGPT最强对手Claude,ai聊天机器人
-
-    - url: https://feizhuke.com/go/?url=aHR0cHM6Ly93d3cucGVycGxleGl0eS5haS8%3D 
-      logo: /assets/images/logos/93e33-www.perplexity.ai.png 
-      title: perplexity ai
-      description: perplexity ai,结合了搜索和聊天功能的在线工具,基于OpenAI API开发
-
-    - url: https://feizhuke.com/go/?url=aHR0cHM6Ly9pbmdlc3RhaS5pby8%3D 
-      logo: /assets/images/logos/7121e-ingestai.io.png 
-      title: IngestAI
-      description: IngestAI官网,使用现有知识库创建类似chatgpt的机器人的工具。
-
-    - url: https://feizhuke.com/chagpt88 
-      logo: /assets/images/logos/img_6474a59fe8ff4.png 
-      title: ChatGPT
-      description: 原版ChatGPT,由OpenAI开发的一款基于人工智能技术的对话机器人，使用自然语言处理和机器学习算法，可以理解和生成类似人类语言的对话。需要科学-上网!
-
-    - url: https://feizhuke.com/go/?url=aHR0cHM6Ly95aXlhbi5iYWlkdS5jb20v 
-      logo: /assets/images/logos/4ca42-yiyan.baidu.com.png 
-      title: 文心一言
-      description: 百度文心一言,对话式ai人工智能写作工具,聊天工具
-
-    - url: https://feizhuke.com/go/?url=aHR0cHM6Ly9iZXRhLmNoYXJhY3Rlci5haS8%3D 
-      logo: /assets/images/logos/1e155-beta.character.ai.png 
-      title: Character ai
-      description: Character ai,在线智能AI聊天机器人,角色扮演,神经语言模型
-
-    - url: https://feizhuke.com/go/?url=aHR0cHM6Ly9iYXJkLmdvb2dsZS5jb20v 
-      logo: /assets/images/logos/b6770-bard.google.com.png 
-      title: google bard
-      description: Bard(改名gemini)是由谷歌 LaMDA 模型提供支持的对话 AI 服务，利用来自互联网的信息提供最新、高质量的回复
-
-    - url: https://feizhuke.com/go/?url=aHR0cHM6Ly9jbGF1ZGUuYWkvY2hhdHM%3D 
-      logo: /assets/images/logos/56546-claude.ai.png 
-      title: claude
-      description: claude AI 聊天机器人,ChatGPT免费平替
-
-    - url: https://feizhuke.com/go/?url=aHR0cHM6Ly9wb2UuY29tLz9yZWY9ZmVpemh1a2UuY29t 
-      logo: /assets/images/logos/6f18a-poe.com.png 
-      title: poe ai
-      description: poe ai,整合6种AI聊天机器人服务,免费使用,chatgpt,claude+,gpt4,sage,neeva ai,dragonfly
-
-    - url: https://feizhuke.com/go/?url=aHR0cHM6Ly93d3cuamFzcGVyLmFpLw%3D%3D 
-      logo: /assets/images/logos/www.jasper.ai.png 
-      title: Jasper ai
-      description: Jasper ai,人工智能AI文章内容写作助手,ai绘画,聊天机器人,语音
-
-    - url: https://feizhuke.com/go/?url=aHR0cHM6Ly95b3UuY29tLw%3D%3D 
-      logo: /assets/images/logos/2cb57-you.com.png 
-      title: you
-      description: you,基于ai人工智能搜索引擎,聊天机器人,代码编写,文本写作,图片生成
-
-    - url: https://feizhuke.com/go/?url=aHR0cHM6Ly93cml0ZXNvbmljLmNvbS9jaGF0P3ZpYT15aXNoZW5nODM%3D 
-      logo: /assets/images/logos/ca441-writesonic.com.png 
-      title: chatsonic
-      description: chatsonic,基于GPT4的ChatGPT与New Bing替代AI聊天机器人,每月1万单词,100+ai模板,ai文章生成器,浏览器插件!
-
-    - url: https://feizhuke.com/go/?url=aHR0cHM6Ly9zZWFhcnQuYWkvP3JlZj1mZWl6aHVrZS5jb20%3D 
-      logo: /assets/images/logos/img_649e880170c7e.png 
-      title: seaart ai
-      description: seaart ai,海艺ai绘画,聊天机器人,prompt提示词网站
 
 
 
