@@ -199,15 +199,15 @@ layout: home
         return false;
     });
 
-    var href = "";
-    var pos = 0;
-    $("a.smooth").click(function(e) {
-        $("#main-menu li").each(function() {
-            $(this).removeClass("active");
-        });
-        $(this).parent("li").addClass("active");
-        e.preventDefault();
-        href = $(this).attr("href");
-        pos = $(href).position().top - 30;
-    });
+    // var href = "";
+    // var pos = 0;
+    // $("a.smooth").click(function(e) {
+    //     $("#main-menu li").each(function() {
+    //         $(this).removeClass("active");
+    //     });
+    //     $(this).parent("li").addClass("active");
+    //     e.preventDefault();
+    //     href = $(this).attr("href");
+    //     pos = $(href).position().top - 30;
+    // });
 </script>
