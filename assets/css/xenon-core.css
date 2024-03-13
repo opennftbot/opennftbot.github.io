@@ -1018,7 +1018,7 @@ body {
     font-family: FontAwesome;
     content: '\f107';
     float: right;
-    color: #6d747a;
+    /* color: #6d747a; */
     margin-left: 10px;
     -webkit-transform: rotate(-90deg);
     -moz-transform: rotate(-90deg);
@@ -1599,7 +1599,7 @@ body {
         font-family: FontAwesome;
         display: block;
         float: right;
-        color: #979898;
+        /* color: #979898; */
         position: relative;
         margin-left: 10px;
         line-height: 1.3;
