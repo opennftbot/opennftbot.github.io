@@ -186,11 +186,10 @@ layout: home
             $(this).addClass('active'); // 添加当前元素的样式
         });
         $("a.smooth").click(function(ev) {
-            debugger;
             ev.preventDefault();
 
             public_vars.$mainMenu.add(public_vars.$sidebarProfile).toggleClass('mobile-is-visible');
-            ps_destroy();
+            // ps_destroy();
             $("html, body").animate({
                 scrollTop: $($(this).attr("href")).offset().top - 30
             }, {
@@ -204,7 +203,6 @@ layout: home
     var href = "";
     var pos = 0;
     $("a.smooth").click(function(e) {
-        debugger;
         $("#main-menu li").each(function() {
             $(this).removeClass("active");
         });
