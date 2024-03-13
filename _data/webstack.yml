@@ -1178,7 +1178,7 @@
         title: neural love
         description: neural love,免费的人工智能AI艺术生成器,绘画,头像,图像,视频,音频增强,老照片修复
 
-  - name: AI 3D建模
+  - name: AI3D建模
     links:
 
 
@@ -1262,7 +1262,7 @@
         title: kaedim
         description: kaedim,ai 3d建模网站,帮助用户在几分钟内创建3D模型
 
-  - name: AI 在线修图
+  - name: AI在线修图
     links:
 
       - url: https://feizhuke.com/bigesheji2 
@@ -1457,7 +1457,7 @@
         title: 皮卡智能picup
         description: 皮卡智能,picup一键ai人工智能抠图神器,图片视频抠图去背景,艺术化,图片修复增强,漫画卡通化
 
-  - name: AI Logo设计
+  - name: AILogo设计
     links:
 
 
@@ -2051,7 +2051,7 @@
         title: FaceSwap
         description: FaceSwap,Face Swap视频AI换脸工具软件
 
-  - name: AI 3D建模
+  - name: AI3D建模
     links:
 
 
@@ -2260,7 +2260,7 @@
         title: fliki
         description: Fliki,人工智能ai文本转视频配音工具
 
-  - name: AI配音(文字转语音)
+  - name: AI文字转语音
     links:
 
 
@@ -2284,7 +2284,7 @@
         title: Filme
         description: Filme,AI语音克隆,ai文字转语音生成器
 
-  - name: AI语音识别(语音转文字)
+  - name: AI语音转文字
     links:
 
       - url: https://feizhuke.com/go/?url=aHR0cHM6Ly93d3cuZmluZXNoYXJlLmNvbQ%3D%3D 
@@ -3328,7 +3328,7 @@
   icon: linecons-lightbulb
   sub: 
   
-  - name: AI工具集(新收录)
+  - name: AI工具集新收录
     links:
 
       - url: https://feizhuke.com/go/?url=aHR0cHM6Ly91eWFuYWkuY29tLw%3D%3D 
@@ -3853,7 +3853,7 @@
         title: Phind
         description: Phind,一个专为程序员开发的ai搜索引擎
 
-  - name: AI无代码/低代码
+  - name: AI无代码低代码
     links:
 
 
@@ -4173,7 +4173,7 @@
         title: 稿定设计
         description: 稿定设计,提供大量免费设计素材和免费设计和视频模板、在线抠图和电商海报设计模板等
 
-  - name: AI logo设计
+  - name: AILogo设计
     links:
 
 
@@ -4202,7 +4202,7 @@
         title: MarketingBlocks ai
         description: MarketingBlocks ai,你的AI营销助理,帮助快速写各类文案
 
-  - name: AI 3D建模
+  - name: AI3D建模
     links:
 
 
@@ -4355,7 +4355,7 @@
         title: vmake
         description: vmake,AI照片和视频编辑器生成,增强,去背景,去水印,ai模特,物体消除,商品图
 
-  - name: ai模特生成
+  - name: AI模特生成
     links:
 
       - url: https://feizhuke.com/go/?url=aHR0cHM6Ly92bW9kZWwuYWkvY24%3D 
@@ -4634,7 +4634,7 @@
         title: chatgptwriter
         description: chatgptwriter,免费chatgpt Chrome浏览器扩展
 
-  - name: Stable Diffusion插件
+  - name: StableDiffusion插件
     links:
 
 
@@ -4678,7 +4678,7 @@
         title: Promptalot
         description: Promptalot,提供海量Midjourney提示词网站+Promptalot Helper插件
 
-  - name: ps ai插件
+  - name: PSAI插件
     links:
 
 
