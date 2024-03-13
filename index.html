@@ -32,14 +32,14 @@ layout: home
                 <ul>
                     {% for sub_category in category.sub %}
                     <li>
-                        <a href="#{{ sub_category.name }}">
+                        <a href="#{{ sub_category.name }}" class="smooth">
                             <span class="title">{{ sub_category.name }}</span>
                         </a>
                     </li>
                     {% endfor %}
                 </ul>
                 {% else if %}
-                <a href="#{{ category.name }}">
+                <a href="#{{ category.name }}" class="smooth">
                     <i class="{{ category.icon }}"></i>
                     <span class="title">{{ category.name }}</span>
                 </a>
@@ -186,6 +186,7 @@ layout: home
             $(this).addClass('active'); // 添加当前元素的样式
         });
         $("a.smooth").click(function(ev) {
+            debugger;
             ev.preventDefault();
 
             public_vars.$mainMenu.add(public_vars.$sidebarProfile).toggleClass('mobile-is-visible');
@@ -203,6 +204,7 @@ layout: home
     var href = "";
     var pos = 0;
     $("a.smooth").click(function(e) {
+        debugger;
         $("#main-menu li").each(function() {
             $(this).removeClass("active");
         });
