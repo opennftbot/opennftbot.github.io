@@ -1,5 +1,5 @@
 ---
-permalink: /about.html
+permalink: /index.html
 layout: home
 ---
 
@@ -26,7 +26,7 @@ layout: home
             <li>
                 {% if category.sub %}
                 <a>
-                    <i class="{{ category.icon }}"></i>
+                    <i class="{{ category.icon }}" style="width: 28px;"></i>
                     <span class="title">{{ category.name }}</span>
                 </a>
                 <ul>
@@ -40,7 +40,7 @@ layout: home
                 </ul>
                 {% else if %}
                 <a href="#{{ category.name }}" class="smooth">
-                    <i class="{{ category.icon }}"></i>
+                    <i class="{{ category.icon }}" style="width: 28px;"></i>
                     <span class="title">{{ category.name }}</span>
                 </a>
                 {% endif %}
@@ -48,18 +48,17 @@ layout: home
             {% endfor %}
             <li>
                 <a href="about.html">
-                    <i class="linecons-heart"></i>
-                    <span class="tooltip-blue">提交AI工具</span>
+                    <i class="fa-user" style="width: 28px;"></i>
+                    <span class="tooltip-blue">联系我收录</span>
                 </a>
             </li>
             <br >
-            <br >
-            <li>
+            <li style="display: none;">
                 <a>
                     <span id="busuanzi_container_site_uv">总访客数<span id="busuanzi_value_site_uv"></span><span id="rnd1"></span>人</span>
                 </a>
             </li>
-            <li>
+            <li style="display: none;">
                 <a>
                     <span id="busuanzi_container_site_pv">总访问量<span id="busuanzi_value_site_pv"></span><span id="rnd2"></span>次</span>
                 </a>
@@ -84,7 +83,7 @@ layout: home
             关于我们
         </div>
     </div>
-    <br />
+    <br /> 
     
     <!-- Main Footer -->
     <footer class="main-footer sticky footer-type-1">
@@ -146,7 +145,7 @@ layout: home
             ev.preventDefault();
 
             public_vars.$mainMenu.add(public_vars.$sidebarProfile).toggleClass('mobile-is-visible');
-            ps_destroy();
+            // ps_destroy();
             $("html, body").animate({
                 scrollTop: $($(this).attr("href")).offset().top - 30
             }, {
