@@ -26,7 +26,7 @@ layout: home
             <li>
                 {% if category.sub %}
                 <a>
-                    <i class="{{ category.icon }}"></i>
+                    <i class="{{ category.icon }}" style="width: 28px;"></i>
                     <span class="title">{{ category.name }}</span>
                 </a>
                 <ul>
@@ -40,7 +40,7 @@ layout: home
                 </ul>
                 {% else if %}
                 <a href="#{{ category.name }}" class="smooth">
-                    <i class="{{ category.icon }}"></i>
+                    <i class="{{ category.icon }}" style="width: 28px;"></i>
                     <span class="title">{{ category.name }}</span>
                 </a>
                 {% endif %}
@@ -48,7 +48,7 @@ layout: home
             {% endfor %}
             <li>
                 <a href="about.html">
-                    <i class="linecons-heart"></i>
+                    <i class="linecons-heart" style="width: 28px;"></i>
                     <span class="tooltip-blue">提交AI工具</span>
                 </a>
             </li>
