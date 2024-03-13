@@ -33,7 +33,10 @@
 }
 
 .xe-comment p {
+    margin-top: 4px;
     margin-bottom: 0px;
+    font-size: x-small;
+    font-weight: normal;
 }
 .overflowClip_1 {
     overflow: hidden;
