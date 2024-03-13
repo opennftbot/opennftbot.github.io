@@ -4008,7 +4008,7 @@
 
 
 - name:  AI设计工具
-  icon: fa-object-ungroup
+  icon: fa-road
   sub: 
 
   - name: AI设计工具
@@ -5083,7 +5083,7 @@
       description: APACHE MXNET灵活高效深度学习库,开源深度学习框架
 
 - name:  AI开发框架
-  icon: fa-skyatlas
+  icon: fa-codepen
   links:
 
 
