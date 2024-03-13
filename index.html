@@ -32,14 +32,14 @@ layout: home
                 <ul>
                     {% for sub_category in category.sub %}
                     <li>
-                        <a href="#{{ sub_category.name }}" class="smooth">
+                        <a href="#{{ sub_category.name }}">
                             <span class="title">{{ sub_category.name }}</span>
                         </a>
                     </li>
                     {% endfor %}
                 </ul>
                 {% else if %}
-                <a href="#{{ category.name }}" class="smooth">
+                <a href="#{{ category.name }}">
                     <i class="{{ category.icon }}"></i>
                     <span class="title">{{ category.name }}</span>
                 </a>
