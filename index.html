@@ -27,7 +27,7 @@ layout: home
                 {% if category.sub %}
                 <a>
                     <i class="{{ category.icon }}" style="width: 28px;"></i>
-                    <span class="title">{{ category.name }}</span>
+                    <span class="title" style="font-weight: bold;">{{ category.name }}</span>
                 </a>
                 <ul>
                     {% for sub_category in category.sub %}
@@ -41,7 +41,7 @@ layout: home
                 {% else if %}
                 <a href="#{{ category.name }}" class="smooth">
                     <i class="{{ category.icon }}" style="width: 28px;"></i>
-                    <span class="title">{{ category.name }}</span>
+                    <span class="title" style="font-weight: bold;">{{ category.name }}</span>
                 </a>
                 {% endif %}
             </li>
