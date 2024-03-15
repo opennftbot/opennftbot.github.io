@@ -152,9 +152,7 @@ layout: home
     function opewin(url){
 
         //把url用base64加密
-        var base64 = new Base64();
-        url = base64.encode(url);
-
+        url = btoa(url);
         window.open('go.html?uid='+url, '_blank');
     }
 
