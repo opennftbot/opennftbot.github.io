@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>test...</title>
+</head>
+<body>
+
+
+    <script>
+
+        // 加密函数
+        async function encryptMessage(message, key) {
+            const encodedMessage = new TextEncoder().encode(message);
+            const encodedKey = new TextEncoder().encode(key);
+        
+            const cryptoKey = await window.crypto.subtle.importKey(
+                'raw', encodedKey, 'AES-GCM', true, ['encrypt']
+            );
+        
+            const encryptedData = await window.crypto.subtle.encrypt(
+                { name: 'AES-GCM', iv: crypto.getRandomValues(new Uint8Array(12)) },
+                cryptoKey,
+                encodedMessage
+            );
+        
+            const encryptedMessage = Array.from(new Uint8Array(encryptedData));
+            return btoa(String.fromCharCode(...encryptedMessage));
+        }
+        
+        // 解密函数
+        async function decryptMessage(encryptedMessage, key) {
+            const decodedMessage = atob(encryptedMessage);
+            const encodedKey = new TextEncoder().encode(key);
+            const cryptoKey = await window.crypto.subtle.importKey(
+                'raw', encodedKey, 'AES-GCM', true, ['decrypt']
+            );
+        
+            const decryptedData = await window.crypto.subtle.decrypt(
+                { name: 'AES-GCM', iv: new Uint8Array(12) },
+                cryptoKey,
+                new Uint8Array([...decodedMessage].map(char => char.charCodeAt(0)))
+            );
+        
+            return new TextDecoder().decode(decryptedData);
+        }
+        
+        // 使用示例
+        const message = 'Hello, World!';
+        const key = window.crypto.getRandomValues(new Uint8Array(16));
+        encryptMessage(message, key)
+            .then(encryptedMessage => {
+                console.log('加密后的消息:', encryptedMessage);
+                return decryptMessage(encryptedMessage, key);
+            })
+            .then(decryptedMessage => {
+                console.log('解密后的消息:', decryptedMessage);
+            })
+            .catch(error => console.error('Error:', error));
+        
+            </script>
+        
+</body>
+</html>
