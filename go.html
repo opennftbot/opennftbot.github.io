@@ -15,8 +15,8 @@
             return decodeURIComponent(results[2].replace(/\+/g, " "));
         }
 
-        // 获取 uid 参数的值
-        var uidParam = getParameterByName('uid');
+        // 获取 uid 参数的值base64解密
+        var uidParam = atob(getParameterByName('uid'));
 
         // 刷新页面并跳转
         setTimeout(function() {
